@@ -1,2 +1,1 @@
-# AAN-Progra3
-Material dedicado a las clases de la Academia Alto Nivel
+# Academia Alto Nivel `Programación 2`
