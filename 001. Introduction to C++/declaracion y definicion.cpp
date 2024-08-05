@@ -2,20 +2,22 @@
 
 int main() {
     // Declaración y definición de variables
-    int edad = 25;              // Declara una variable entera llamada 'edad' e inicializa con el valor 25
-    double altura = 1.75;       // Declara una variable de tipo doble llamada 'altura' e inicializa con el valor 1.75
-    char inicial = 'A';         // Declara una variable de tipo carácter llamada 'inicial' e inicializa con el valor 'A'
-    bool esMayor = true;        // Declara una variable booleana llamada 'esMayor' e inicializa con el valor true
+    // -    Declaración: Se refiere a la creación de una variable sin asignarle un valor.
+    // -    Definición: Se refiere a la creación de una variable con asignación de un valor.
 
-    // Impresión
+    int edad = 25;
+    double altura = 1.75;
+    char inicial = 'A';
+    bool esMayor = true;
+
     std::cout << "Edad: " << edad << std::endl;
     std::cout << "Altura: " << altura << " metros" << std::endl;
     std::cout << "Inicial: " << inicial << std::endl;
-    std::cout << "¿Es mayor de edad?: " << (esMayor ? "Sí" : "No") << std::endl; /* Operador ternario:
-                                                                                        * Si 'esMayor' es true, imprime "Sí"
-                                                                                        * Si 'esMayor' es false, imprime "No" */
+    std::cout << "¿Es mayor de edad?: " << (esMayor ? "Sí" : "No") << std::endl;
+                                            // Operador ternario (condición ? valor_si_cierto : valor_si_falso)
+                                            // -    Si `esMayor` es verdadero, imprime "Sí".
+                                            // -    Si `esMayor` es falso, imprime "No".
 
-    // Modificación
     edad = 30;
     altura = 1.80;
     inicial = 'B';

@@ -6,7 +6,6 @@ int main() {
 
     // -    `sizeof` puede ser utilizado con cualquier tipo de dato, incluyendo 
     //      tipos definidos por el usuario como estructuras y clases.
-
     // -    El tamaño devuelto por `sizeof` puede variar según el compilador y
     //      la arquitectura del sistema. Por ejemplo, en una arquitectura de 32
     //      bits, `sizeof(int)` podría ser 4 bytes, mientras que en una
