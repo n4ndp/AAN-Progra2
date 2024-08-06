@@ -1,0 +1,16 @@
+Ejercicio 1: Conversión de Temperatura
+Enunciado: Escribe un programa que convierta una temperatura dada en grados Celsius a grados Fahrenheit y 
+viceversa. El usuario debe poder elegir la dirección de la conversión (Celsius a Fahrenheit o Fahrenheit a 
+Celsius) e ingresar la temperatura.
+
+Ejercicio 2: Cálculo de Áreas
+Enunciado: Escribe un programa que calcule el área de un círculo, un triángulo o un rectángulo. El usuario
+debe poder elegir la figura geométrica y proporcionar los datos necesarios para el cálculo.
+
+Ejercicio 3: Conversión de Segundos
+Enunciado: Escribe un programa que convierta una cantidad dada de segundos en horas, minutos y segundos. 
+Por ejemplo, para 3665 segundos, el programa debe mostrar 1 hora, 1 minuto y 5 segundos.
+
+Ejercicio 4: Inversión de un Número de 4 Cifras
+Enunciado: Escribe un programa que tome un número entero de 4 cifras y lo invierta sin usar bucles. Por 
+ejemplo, si el número es 1234, el programa debe mostrar 4321.

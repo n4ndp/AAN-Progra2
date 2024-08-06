@@ -1,0 +1,21 @@
+Ejercicio 1: Cálculo de la Media de un Array
+Enunciado: Crea un programa en C++ que lea 5 números enteros desde el teclado, almacene estos números en 
+un array, y calcule la media de los números. Usa un bucle for para sumar los elementos del array y luego 
+calcula la media.
+
+Ejercicio 2: Intercambio de Valores
+Enunciado: Escribe un programa que intercambie los valores de dos variables enteras sin usar una variable 
+auxiliar. Usa operaciones aritméticas para realizar el intercambio.
+
+
+
+
+
+
+
+
+
+
+
+
+
