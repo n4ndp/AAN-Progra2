@@ -1,0 +1,20 @@
+Ejercicio 1:  Escribir un programa que permita crear un vector con N enteros, con valores aleatorios entre el 1 y el 30.
+Imprima el vector. Luego borre todos aquellos que sean múltiplos de 3 y finalmente muestre el vector modificado.
+
+Ejercicio 2:  Escribir un programa que almacene N números positivos (del 0 al 99) generados aleatoriamente que deben ser 
+almacenados en un vector. Deberá crearse 3 funciones que permitan realizar los siguientes cálculos sobre el vector:
+a. Calcular el promedio de todos los números del vector.
+b. Calcular la suma de todos los números menores a un valor.
+c. Generar un nuevo vector que almacena para cada número la diferencia entre el promedio y el número.
+
+Ejercicio 3:  Escribir un programa que almacene N números positivos (del 1 al 10) generados aleatoriamente que deben 
+ser almacenados en un vector. Deberán crearse 3 funciones que permitan realizar los siguientes cálculos
+sobre el vector:
+a. La multiplicación de todos los números impares.
+b. La suma de todos los números pares.
+c. Generar un nuevo vector con valores que se encuentren en posiciones múltiplo de 3 incluyendo la posición 0.
+
+Ejercicio 4: La tabla de caracteres ASCII asigna a cada carácter de 8 bits un código desde el 0 hasta el 255, a este código 
+se conoce como código ASCII. Si realizamos el typecasting de un char a int podremos verificar que por ejemplo la letra ‘A’ 
+tiene código ASCII 65 o que la ñ tiene código ASCII 164. Escribir un programa que lea un texto y haciendo uso de un vector 
+contar las veces que se repita cada carácter del texto que se ha leído.
